@@ -16,7 +16,7 @@ finally:
 	from selenium.common.exceptions import NoSuchElementException
 	import time, json, random, sys, os, gzip
 
-autoAnswer=False
+autoAnswer=True
 platform=None
 jsondata=None
 autoOpen=False
